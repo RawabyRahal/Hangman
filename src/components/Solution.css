@@ -1,0 +1,18 @@
+.letter{
+    display:inline;
+}
+
+.solution{
+    letter-spacing: 10px;
+    font-size: x-large;
+}
+
+.score{
+    margin-top: -43vh;
+    /* display: flex; */
+    align-items: center;
+    /* margin-left: 50vh; */
+}
+.hint{
+    font-weight: bold;
+}

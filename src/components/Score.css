@@ -1,0 +1,23 @@
+.high-score {
+    color: green;
+}
+
+.medium-score {
+    color: orange;
+}
+
+.low-score {
+    color: red;
+}
+.remain{
+    color: rgb(222, 27, 27);
+    display: inline-block;
+}
+.score{
+    font-weight: bold;
+    font-size: 18px;
+}
+.remain-gusses{
+    font-weight: bold;
+    font-size: 18px;
+}

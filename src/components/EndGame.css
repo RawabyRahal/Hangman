@@ -1,0 +1,27 @@
+.gameover{
+    margin-top: -35vh;
+    font-size: 30px;
+    color: red;
+    margin-left: 50vh;
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+}
+
+.restart{
+    background-color: rgb(55, 181, 141);
+    font-size: 20px;
+    border-radius: 12px;
+    margin-left: 50vh;
+    font-family: 'Playfair Display', serif;
+    /* font-weight: 600; */
+    cursor: pointer;
+}
+
+.congrats{
+    margin-top: -40vh;
+    font-size: 25px;
+    color: rgb(178, 112, 7);
+    margin-left: 50vh;
+    font-family: 'Lucida Handwriting', 'Cursive';
+    font-weight: 600;
+}
