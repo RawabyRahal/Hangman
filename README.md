@@ -8,7 +8,7 @@ A classic Hangman game built using React.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/hangman-game.git
+   git clone https://github.com/RawabyRahal/Hangman.git
 
 2. Navigate to the project directory:
    ```bash
