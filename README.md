@@ -26,4 +26,6 @@ A classic Hangman game built using React.
 
 3. Open your browser and go to http://localhost:3000.
 
+   
+
 ### Enjoy the game!
