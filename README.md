@@ -2,7 +2,12 @@
 
 A classic Hangman game built using React.
 
+## Technologies Used
 
+### Frontend
+- **React.js:** A JavaScript library for building user interfaces.
+- **CSS (Cascading Style Sheets):** Used for styling the visual presentation of the game.
+  
 ## Installation
 
 1. Clone the repository:
