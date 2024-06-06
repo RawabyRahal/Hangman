@@ -6,6 +6,7 @@ A classic Hangman game built using React.
 
 ### Frontend
 - **React.js:** A JavaScript library for building user interfaces.
+- **JavaScript:** A programming language used for adding interactivity and logic to the game.
 - **CSS (Cascading Style Sheets):** Used for styling the visual presentation of the game.
   
 ## Installation
